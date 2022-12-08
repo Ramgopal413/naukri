@@ -1,0 +1,2 @@
+,id,skills,company,city,title,job_description,max_salary,min_salary,employment_type,max_experience,min_experience,location,industry_type,posted_by
+0,3,"OrderedDict([('id', 1), ('name', 'ramu'), ('description', 'explain everything')])","OrderedDict([('id', 1), ('name', 'ECI'), ('location', 'bihar'), ('date_of_start', '2000-01-01'), ('description', 'i have done')])",hyderabad,title,znZN,100000.0,20000.0,electrical,5,2,bihar,hardware,1
